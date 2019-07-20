@@ -1,6 +1,9 @@
 # flutterui_02
 
-A new Flutter project.
+Flutter ui 2.
+ 
+ ![alt text](https://raw.githubusercontent.com/mastermajisosse/flutterui_02/master/assets/preview.jpg)
+
 
 ## Getting Started
 
